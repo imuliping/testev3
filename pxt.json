@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "ev3": "*",
-        "automation": "github:microsoft/pxt-automation#v0.0.3"
+        "automation": "github:microsoft/pxt-automation#v0.0.3",
+        "MapleRobot": "github:ev3alexli/pxt-maplerobot#46372c9c2b1d59bf28b690ce7788cd2475b374fc"
     },
     "files": [
         "main.blocks",
